@@ -1,0 +1,10 @@
+{
+    "id": "file-hpeEsO44BOJOz8bSRRyNA22E",
+    "bytes": 688888,
+    "created_at": 1711638469,
+    "filename": "prompts.jsonl",
+    "object": "file",
+    "purpose": "fine-tune",
+    "status": "processed",
+    "status_details": null
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ftjob-akVeyJBBV98OBY3KUDz3nBbb",
+    "created_at": 1711638469,
+    "error": {
+        "code": null,
+        "message": null,
+        "param": null,
+        "error": null
+    },
+    "fine_tuned_model": null,
+    "finished_at": null,
+    "hyperparameters": {
+        "n_epochs": "auto",
+        "batch_size": "auto",
+        "learning_rate_multiplier": "auto"
+    },
+    "model": "ft:gpt-3.5-turbo-0125:aryzen::97lUwbDH",
+    "object": "fine_tuning.job",
+    "organization_id": "org-TLXg3yHJq6Uml9bLWRNukM51",
+    "result_files": [],
+    "status": "validating_files",
+    "trained_tokens": null,
+    "training_file": "file-hpeEsO44BOJOz8bSRRyNA22E",
+    "validation_file": null,
+    "user_provided_suffix": null
+}

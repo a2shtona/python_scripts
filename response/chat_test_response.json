@@ -1,0 +1,6 @@
+{
+    "content": "Hello! How can I assist you today?",
+    "role": "assistant",
+    "function_call": null,
+    "tool_calls": null
+}
